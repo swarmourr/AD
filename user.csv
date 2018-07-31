@@ -1,0 +1,8 @@
+First Name,Last Name,Job Title,Office Phone,Email Address,Description,Organizational Unit,password
+safri,abdoq,Office Manager,012-345-1232,mike.terry@itflee.com,Ensures excellent physical condition of office,"OU=etudiant,OU=ntnux,DC=ntnux,DC=com",1
+latifa,hariq,Software Engineer,012-345-1233,ridley.quin@itflee.com,Develops software for itflee.com in support of various expansion agendas,"OU=admin,OU=ntnux,DC=ntnux,DC=com",2
+siham,safriq,Network Administrator,012-345-1234,ripley.dalton@itflee.com,Administration and security of office network gear and servers,"OU=etudiant,OU=ntnux,DC=ntnux,DC=com",3
+hicham,safriq,Technical Analyst,012-345-1235,rollo.braith@itflee.com,Procures IT software and hardware,"OU=admin,OU=ntnux,DC=ntnux,DC=com",4
+Salwa,saksikq,Support Specialist,012-345-1236,stan.kenzie@itflee.com,Provides Tier 2 support to itFlee office,"OU=etudiant,OU=ntnux,DC=ntnux,DC=com",5
+hamid,chamlalq,Technical Analyst,012-345-1235,rollo.braith@itflee.com,Procures IT software and hardware,"OU=admin,OU=ntnux,DC=ntnux,DC=com",6
+loubna,beramdenq,Support Specialist,012-345-1236,stan.kenzie@itflee.com,Provides Tier 2 support to itFlee office,"OU=etudiant,OU=ntnux,DC=ntnux,DC=com",7
